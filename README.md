@@ -17,3 +17,18 @@
 - 📚 Sempre estudando e aberto a novos desafios.
   
 ---
+
+## 💡Principais Habilidades
+
+  <img src="https://skillicons.dev/icons?i=cs,unity,dotnet,html,css,js,python,sublime,git,vscode,github" />
+</p>
+
+---
+
+## 📫Onde me encontar
+<p alinhar="esquerda">
+  <p align="left">
+  <um href="mailto:cauavictor2016x@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></um>
+  <um href="https://www.linkedin.com/in/cau%C3%A3-almeida-094871262/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></um>
+  <um href="https://www.instagram.com/caua._al/"><img src="https://img.shields.io/badge/instagram-c950c6?style=for-the-badge&logo=instagram&logoColor=white"/><um></um>
+  <um href="https://www.instagram.com/tempestivus.soltec/"><img src="https://img.shields.io/badge/instagram-c950c6?style=for-the-badge&logo=instagram&logoColor=white"/><um></um>
